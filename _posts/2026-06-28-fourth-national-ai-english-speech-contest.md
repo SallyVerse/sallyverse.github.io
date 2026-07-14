@@ -57,3 +57,6 @@ Thank goodness.
 Aside from a small technical issue, the presentation went smoothly. I didn't stumble across my words too much. I'm rather satisfied with how I did.
 
 Though I didn't earn first place, this contest served to be a great experience and much encouragement to do better for the next public speaking competition.
+
+![Speech Screenshot 1](/assets/img/AI_Speech_Comp/Speech_Screenshot_1.PNG)
+![Speech Screenshot 2](/assets/img/AI_Speech_Comp/Speech_Screenshot_2.PNG)
