@@ -40,7 +40,7 @@ After our two hours of preparation, we had lunchtime, but I spent most of that p
 ### It’s Time
 The second competitor had finished her speech, followed by a round of applause.
 
-I knew that all the competitors would be very strong contenders, but *wow*. I know only two students had gone up, but they did amazing.
+I knew that everyone competing would be very strong contenders, but *wow*. I know only two students had gone up, but they did amazing.
 
 My eyes followed the announcer’s hand as it dived straight into the box of names. Call me crazy, but I just knew I would get picked.
 
