@@ -1,7 +1,0 @@
----
----
-
-/* Hide the hardcoded Home nav item in the sidebar */
-#sidebar nav li:has(.fa-home) {
-  display: none !important;
-}
