@@ -6,7 +6,7 @@ tags: [speech, contest, public-speaking, family]
 description: From a rollercoaster ride with my parents to the stage of a speech contest
 ---
 
-## The conflict that stemmed from a simple misunderstanding
+## The Conflict That Stemmed From a Simple Misunderstanding
 I had made it to the Finals for the Cheonan City 2026 National Youth English Speech Contest out of the 10 middle school finalists. Since I now had an idea of what it would feel like to get on stage, my mind didn't go over the worst-case scenarios. This competition would be one that I would get to enjoy. 
 
 However, before the day of the competition, my parents and I faced a conflict.
