@@ -40,6 +40,7 @@ Once all of our speeches had been presented, the award ceremony took place. I we
 Overall, I believe I did much better than the first contest, and seeing how proud my parents were was very fulfilling. We may have faced a disagreement, but through a calm conversation, we were able to untangle our misunderstanding. I'm very glad we had that talk, and I feel very grateful to have parents who care enough to share their side of the story and encourage me to do better.
 
 Here is a link to the recording of my speech on stage. I reviewed this to identify weaknesses in my public speaking:
+
 https://www.youtube.com/watch?v=PKBQyHn2uCw
 
 Though I have improved compared to last time, there are some areas that I would like to work on. For instance, my speech could have been better if I adjusted my volume throughout the speech. When I listened back to my recording, my voice was the same volume for most of the presentation. In addition to this, I think I spoke more quickly on stage during the beginning of my speech than I did during rehearsal. These are just two of the bits that I would like to improve before the next competition!
