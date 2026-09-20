@@ -1,6 +1,6 @@
 ---
 title: Reference Study – Sushi Drawing
-date: 2026-08-31
+date: 2026-09-12
 categories: [Creative Works, Art]
 tags: [art, school, reference study]
 description: (School Assignment) Sushi study drawn with a provided reference
