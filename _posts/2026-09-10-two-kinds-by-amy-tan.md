@@ -1,6 +1,6 @@
 ---
 title: Two Kinds by Amy Tan
-date: 2026-08-31
+date: 2026-09-10
 categories: [Clubs, Book Club]
 tags: [club, literature, school]
 description: My thoughts on the first book I read this year for Book Club
