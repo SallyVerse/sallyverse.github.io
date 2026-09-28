@@ -6,4 +6,4 @@ tags: [art, reference study]
 description: TBD
 ---
 
-TBD
+Not yet finished!
