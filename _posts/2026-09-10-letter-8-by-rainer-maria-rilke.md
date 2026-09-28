@@ -1,6 +1,6 @@
 ---
-title: Letter 8 by Rainer Maria Rilke
-date: 2026-09-10
+title: Form Practice
+date: 2026-05-04
 categories: [Clubs, Book Club]
 tags: [club, literature, school]
 description: TBD
