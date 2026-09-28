@@ -1,8 +1,8 @@
 ---
 title: Form Practice (and Lots of Circles)
 date: 2026-05-04
-categories: [Clubs, Book Club]
-tags: [club, literature, school]
+categories: [Creative Works, Art]
+tags: [art]
 description: Practicing circles, basic 3D forms, and line consistency
 ---
 
