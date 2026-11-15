@@ -3,7 +3,7 @@ title: English IA Honors Project
 date: 2026-07-09
 categories: [Projects, Honors Projects]
 tags: [honors, projects, art, school, english]
-description: TBD
+description: An Honors Project satirizing phone addiction through digital art
 ---
 
 ![Phone Satire Addiction](/assets/img/Art/Phone_Satire_Addiction_Official.jpg)
